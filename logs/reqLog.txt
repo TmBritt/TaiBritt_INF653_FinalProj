@@ -1,0 +1,13 @@
+20240506	21:14:37	bea1baec-b321-4b29-a154-68e4321726c7	GET	undefined	/states
+20240506	21:16:01	234d3f7b-93c3-42d4-828e-eb9b6324caca	GET	undefined	/statesDatas
+20240506	21:16:41	c72ae202-d51d-482f-8311-596c73681e76	POST	undefined	/statesDatas
+20240506	21:16:48	7f213e0e-91c0-4d66-9ca3-3aa1a5db6522	PUT	undefined	/statesDatas
+20240506	21:16:56	fc9277e3-ff84-4304-9413-23e5c749f8b2	DELETE	undefined	/statesDatas
+20240506	21:17:03	65501d46-7aa5-41de-a3f9-ee932744127f	PATCH	undefined	/statesDatas
+20240506	21:17:41	f80bb80e-9793-440f-a48b-1328fc325b36	PATCH	undefined	/states
+20240506	21:17:44	612bc7a3-63ee-4004-afb1-311e0aba363c	PATCH	undefined	/state
+20240506	21:17:49	b20fa6ce-332d-496e-9544-573cd1f6cb2f	PATCH	undefined	/State
+20240506	21:17:52	ffaafd7c-3709-4a14-b494-c3f1ba272584	GET	undefined	/State
+20240506	21:47:53	745612d8-501d-4861-a35d-38c99248dbd7	GET	undefined	/ga/funfact
+20240506	22:00:47	03cce149-1675-46e2-9fe1-e470f8f15814	GET	undefined	/ga/funfact
+20240506	22:00:57	8cd46e96-a65b-4dbd-bb02-f983d54d953e	DELETE	undefined	/ga/funfact
